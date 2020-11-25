@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://julianalbertoa3.sg-host.com/sitemap.xml
